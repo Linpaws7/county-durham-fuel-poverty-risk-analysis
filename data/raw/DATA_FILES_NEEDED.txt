@@ -1,4 +1,4 @@
-Put the required raw Excel files for the project in this folder before running the notebooks:
+
 
 - fuel_poverty_la_2023.xlsx
 - electricity_la_2005_2024.xlsx
